@@ -77,7 +77,7 @@ motion.
       </motion.div>
 
       <div className="imageContainer">
-        <img className="hero1" src="./hero.png" alt="" />
+        <img className="hero1" src="/my/public/hero.png" alt="" />
       </div>
     </div>
   );
